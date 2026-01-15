@@ -1,15 +1,15 @@
 {
     "sites": [
         {
-            "key": "🎬爱奇艺",
-            "name": "https://iqiyizyapi.com/api.php/provide/vod",
+            "key": "iqiyizy",
+            "name": "爱奇艺",
             "api": "https://iqiyizyapi.com/api.php/provide/vod",
             "active": true
         },
         {
-            "key": "🎬豆瓣资源",
-            "name": "https://caiji.dbzy5.com/api.php/provide/vod\",
-            "api": "https://caiji.dbzy5.com/api.php/provide/vod\",
+            "key": "dbzy5",
+            "name": "豆瓣资源",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
             "active": true
         }
     ]
