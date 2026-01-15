@@ -1,16 +1,15 @@
 {
     "sites": [
-        {
-            "key": "iqiyizy",
-            "name": "爱奇艺",
-            "api": "https://iqiyizyapi.com/api.php/provide/vod",
-            "active": true
-        },
-        {
-            "key": "dbzy5",
-            "name": "豆瓣资源",
-            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-            "active": true
-        }
+        {"key": "iqiyizy","name": "爱奇艺","api": "https://iqiyizyapi.com/api.php/provide/vod","active": true},
+        {"key": "dbzy5","name": "豆瓣资源","api": "https://caiji.dbzy5.com/api.php/provide/vod","active": true},
+        {"key": "dyttzy","name": "电影天堂","api": "http://caiji.dyttzyapi.com/api.php/provide/vod","active": true},
+        {"key": "tyyszy","name": "天涯资源","api": "https://tyyszy.com/api.php/provide/vod","active": true},
+        {"key": "ffzy5","name": "非凡影视","api": "http://ffzy5.tv/api.php/provide/vod","active": true},
+        {"key": "360zy","name": "360资源","api": "https://360zy.com/api.php/provide/vod","active": true},
+        {"key": "wolongzyw","name": "卧龙资源","api": "https://wolongzyw.com/api.php/provide/vod","active": true},
+        {"key": "wwzy","name": "旺旺短剧","api": "https://wwzy.tv/api.php/provide/vod","active": true},
+        {"key": "ikunzy","name": "iKun资源","api": "https://ikunzyapi.com/api.php/provide/vod","active": true},
+        {"key": "modu","name": "魔都动漫","api": "https://caiji.moduapi.cc/api.php/provide/vod","active": true},
+        {"key": "lzcaiji","name": "量子资源","api": "https://cj.lzcaiji.com/api.php/provide/vod","active": true}
     ]
 }
